@@ -1,3 +1,5 @@
+Trigger CI pipeline run
+
 # CI/CD Pipeline for Containerized Node.js Application
 
 This project demonstrates a complete CI/CD pipeline for a containerized Node.js web application using Docker and GitHub Actions.
